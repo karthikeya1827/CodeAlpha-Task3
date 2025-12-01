@@ -54,11 +54,12 @@ To accurately recognize digits from grayscale images using a deep learning model
 ---
 
 ## 🚀 How to Run
-1. Clone the repo
+1. Clone the repo  
 2. Install dependencies:  
- ```bash
- pip install tensorflow numpy
+   ```bash
+   pip install -r requirements.txt
 
-## Run the script
-python mnist_cnn.py
+3. Run using:
+   ```bash
+   python mnist_cnn.py
 
